@@ -1,0 +1,5 @@
+/node_modules/*
+modificationsRecord.json
+test/project/dist/*
+test/project/dist_dev/*
+test/project/dist_dev
