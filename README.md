@@ -25,6 +25,8 @@ Optional arguments (with examples):
 
 ```
 
+(The 'cache' option sets the value to the header like so 'Cache-Control max-age=<value>')
+
 
 ### Disclaimer
 
