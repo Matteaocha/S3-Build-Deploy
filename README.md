@@ -1,4 +1,7 @@
 # S3-Build-Deploy
+
+**(WARNING: This package is no longer being actively maintained)**
+
 Deploy a folder to an S3 bucket, with options to set cache control, prefix, profile, and without deploying unmodified files
 
 

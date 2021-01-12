@@ -1,6 +1,6 @@
 {
   "name": "s3-build-deploy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deploy a folder to an S3 bucket, with options to set cache control, a prefix, and without deploying unmodified files",
   "main": "gulp",
   "scripts": {
